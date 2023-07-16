@@ -21,6 +21,7 @@ This is a patient portal. Where we can register staff members and create patient
 
 <p> 4.Fetch all discharged patient from hospital</p>
 
+<h5> Validations, exceptions are handled throughout the application </h5>
 Note: Ignore Jwt classes that is to be added 
 
 # STAFF CONTROLLER URLs
